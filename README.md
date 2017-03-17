@@ -1,5 +1,7 @@
-Notes 
-=========
+Il gruppo fa affidamento su delle semplici regole:
 
-Notes Onepage Free Comming Soon HTML5 Template .
-Download Free Wordpress Version From : http://www.themefisher.com/items/notes-coming-soon-wordpress-theme/ . 
+1. gli incontri si svolgono ogni secondo giovedì del mese ad Impact Bari
+2. ad ogni incontro si presenta un solo argomento
+3. ogni membro può proporre degli argomenti da presentare nella prima data utile
+4. la scelta dell'argomento da presentare viene decisa democraticamente attraverso un sistema di votazione
+5. ogni membro può liberamente invitare chiunque.
