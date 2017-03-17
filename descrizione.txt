@@ -1,0 +1,19 @@
+Siamo un gruppo di informatici fermamente convinti che condividere conoscenza crea opportunità ai singoli e potenzia l’insieme.
+
+I principi e valori su cui si fonda questo gruppo prendono ispirazione dall’Agile Software Development ed in particolare dall’Extreme Programming:
+
+SEMPLICITA’ - ci piace descriverla così come recita il manifesto Agile: “la semplicità è l’arte di massimizzare la quantità di lavoro non svolto”;
+COMUNICAZIONE - si attua nel confronto continuo sia sui canali online del club (principalmente il gruppo LinkedIn) che durante i fondamentali incontri dal vivo;
+FEEDBACK - riconosciamo che cercare il confronto con gli altri è l’unico modo di progredire nel nostro personale percorso di eccellenza;
+RISPETTO - solo grazie al rispetto di tutti gli individui che si affacciano alla comunità è possibile un confronto orientato alla crescita sia del singolo che collettiva;
+CORAGGIO - il coraggio ci consente di esporci con gli altri senza aver paura di ‘sbagliare’. Il coraggio ci consente di sperimentare anche se l’unico risultato che otteniamo è il fallimento. Il coraggio ci consente di perseguire strade che non sono convenzionali ed accettate dalle “istituzioni” e che in un modo o nell’altro ci porteranno ad un’innovazione.
+
+Ogni mese il Club degli Sviluppatori organizza un incontro in cui uno membro può proporre un argomento da presentare e discutere con tutto il club. L’argomento è strettamente legato al mondo ICT.
+
+Il gruppo fa affidamento su 6 semplici regole:
+
+1. gli incontri si svolgono ogni secondo giovedì del mese ad Impact Bari;
+2. ad ogni incontro si presenta un solo argomento;
+3. ogni membro può proporre degli argomenti da presentare nella prima data utile;
+4. la scelta dell'argomento da presentare viene decisa democraticamente attraverso un sistema di votazione;
+5. ogni membro può liberamente invitare chiunque.
