@@ -28,12 +28,12 @@ $(document).ready(function(){
 
     $('#countdown_dashboard').countDown({
         targetDate: {
-            'day':      11,
-            'month':    3,
+            'day':      09,
+            'month':    5,
             'year':     2017,
-            'hour':     00,
+            'hour':     18,
             'min':      00,
-            'sec':      01,
+            'sec':      00,
         },
         omitWeeks: true
     });
@@ -108,7 +108,7 @@ $(document).ready(function(){
 });
 
 // When the window has finished loading create our google map below
-google.maps.event.addDomListener(window, 'load', init);
+// google.maps.event.addDomListener(window, 'load', init);
 
 function init() {
     // Basic options for a simple Google Map
