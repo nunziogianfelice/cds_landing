@@ -14,10 +14,3 @@
     });
 
 - Per quanto riguarda invece le informazioni riguardanti l'html sono semplicemente contenute nell'unico file index.html
-
-- security token of smtpjs.com 
-    Your security token is 1b824b76-5310-4542-a9df-6cccdfc2a553
-    Your security token is 1b824b76-5310-4542-a9df-6cccdfc2a553
-
-Invio mail con javascript con account gmail
- - https://www.sitepoint.com/sending-emails-gmail-javascript-api/
